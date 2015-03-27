@@ -1,0 +1,4 @@
+D:\Projects\CSVHelper\CSVHelper.Framework\CSVHelper.Framework\bin\Release\CSVHelper.Framework.dll
+D:\Projects\CSVHelper\CSVHelper.Framework\CSVHelper.Framework\bin\Release\CSVHelper.Framework.pdb
+D:\Projects\CSVHelper\CSVHelper.Framework\CSVHelper.Framework\obj\Release\CSVHelper.Framework.dll
+D:\Projects\CSVHelper\CSVHelper.Framework\CSVHelper.Framework\obj\Release\CSVHelper.Framework.pdb
