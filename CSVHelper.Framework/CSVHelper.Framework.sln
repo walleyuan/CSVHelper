@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVHelper.Framework", "CSVHelper.Framework\CSVHelper.Framework.csproj", "{D7E8011D-DCB5-4AE6-B0DD-F61B08ADB8D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVHelper.ConsoleApp", "..\CSVHelper.ConsoleApp\CSVHelper.ConsoleApp.csproj", "{3C429E72-13B4-4675-B1DB-8B571A5F6E41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7E8011D-DCB5-4AE6-B0DD-F61B08ADB8D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E8011D-DCB5-4AE6-B0DD-F61B08ADB8D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E8011D-DCB5-4AE6-B0DD-F61B08ADB8D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E8011D-DCB5-4AE6-B0DD-F61B08ADB8D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C429E72-13B4-4675-B1DB-8B571A5F6E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C429E72-13B4-4675-B1DB-8B571A5F6E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C429E72-13B4-4675-B1DB-8B571A5F6E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C429E72-13B4-4675-B1DB-8B571A5F6E41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

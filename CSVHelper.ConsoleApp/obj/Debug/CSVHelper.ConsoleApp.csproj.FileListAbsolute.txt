@@ -1,0 +1,8 @@
+D:\Projects\CSVHelper\CSVHelper.ConsoleApp\bin\Debug\CSVHelper.ConsoleApp.exe.config
+D:\Projects\CSVHelper\CSVHelper.ConsoleApp\bin\Debug\CSVHelper.ConsoleApp.exe
+D:\Projects\CSVHelper\CSVHelper.ConsoleApp\bin\Debug\CSVHelper.ConsoleApp.pdb
+D:\Projects\CSVHelper\CSVHelper.ConsoleApp\bin\Debug\CSVHelper.Framework.dll
+D:\Projects\CSVHelper\CSVHelper.ConsoleApp\bin\Debug\CSVHelper.Framework.pdb
+D:\Projects\CSVHelper\CSVHelper.ConsoleApp\obj\Debug\CSVHelper.ConsoleApp.csprojResolveAssemblyReference.cache
+D:\Projects\CSVHelper\CSVHelper.ConsoleApp\obj\Debug\CSVHelper.ConsoleApp.exe
+D:\Projects\CSVHelper\CSVHelper.ConsoleApp\obj\Debug\CSVHelper.ConsoleApp.pdb

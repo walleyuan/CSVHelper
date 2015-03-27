@@ -1,0 +1,5 @@
+D:\Projects\CSVHelper\CSVHelper.Framework\CSVHelper.Framework\bin\Debug\CSVHelper.Framework.dll
+D:\Projects\CSVHelper\CSVHelper.Framework\CSVHelper.Framework\bin\Debug\CSVHelper.Framework.pdb
+D:\Projects\CSVHelper\CSVHelper.Framework\CSVHelper.Framework\obj\Debug\CSVHelper.Framework.csprojResolveAssemblyReference.cache
+D:\Projects\CSVHelper\CSVHelper.Framework\CSVHelper.Framework\obj\Debug\CSVHelper.Framework.dll
+D:\Projects\CSVHelper\CSVHelper.Framework\CSVHelper.Framework\obj\Debug\CSVHelper.Framework.pdb
